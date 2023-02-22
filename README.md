@@ -4,7 +4,7 @@ ESP32 to ESP32 Serial Communication. Let us see an example of serial communicati
 # Lien vidéo:
 - https://youtu.be/xCAm8l4f6Mk
 # Getting Started ESP32 Px Matrix With SmartMatrix:
-_ https://youtu.be/InhCc_-RBb4
+- https://youtu.be/InhCc_-RBb4
 
 #REQUIRES the following Arduino libraries:
 - SmartMatrix Library: https://github.com/pixelmatix/SmartMatrix
