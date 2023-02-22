@@ -2,6 +2,7 @@
 ESP32 to ESP32 Serial Communication. Let us see an example of serial communication the ESP32 master send buffer to the ESP32 slave.
 
 Lien vidéo: https://youtu.be/xCAm8l4f6Mk
+
 REQUIRES the following Arduino libraries:
 - SmartMatrix Library: https://github.com/pixelmatix/SmartMatrix
 - Adafruit_GFX Library: https://github.com/adafruit/Adafruit-GFX-Library
